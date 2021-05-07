@@ -8,5 +8,4 @@ published: true
 
 ###The Skies Are Bright Tonight...
 
-![Etoile-Banner.jpg]({{site.baseurl}}/_posts/Etoile-Banner.jpg)
-![]({{site.baseurl}}/https://i.ibb.co/BC4G3rL/Etoile-Banner.jpg)
+![]({{site.baseurl}}/https://prose.io/#Reineswarze/Reineswarze.github.io/blob/master/_posts/2014-3-3-Hello-World.md)
