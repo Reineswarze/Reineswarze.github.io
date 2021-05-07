@@ -8,4 +8,4 @@ published: true
 
 ### Contact me
 
-on Discord Bad Intentions 8266
+Discord Bad Intentions 8266
